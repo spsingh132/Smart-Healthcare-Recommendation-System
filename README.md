@@ -17,11 +17,8 @@ A machine learning-based healthcare system that intelligently analyzes patient s
 ## 🛠️ Tech Stack
 
 - **Languages**: Python
-- **Libraries**: Scikit-learn, Pandas, NumPy, TensorFlow/Keras, Matplotlib, Seaborn
-- **Frontend**: Streamlit / Flask / MIT App Inventor (optional for mobile)
-- **Others**: Jupyter Notebook, Google Colab
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Frontend**: Streamlit / Flask / HTML / CSS
+- **Others**: Google Colab, VS Code
 
 ---
-
-## 📁 Project Structure
-
